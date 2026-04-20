@@ -1,0 +1,11 @@
+feature,p_value,cohens_d
+cpu_usage,0.5249,0.0157
+memory_usage,0.2925,0.026
+network_in_kb,0.8012,0.0062
+network_out_kb,0.0644,0.0461
+packet_rate,0.187,0.0326
+avg_response_time_ms,0.7587,0.0076
+service_access_count,0.8609,0.0043
+failed_auth_attempts,0.6625,0.0108
+is_encrypted,0.642,0.0115
+geo_location_variation,0.9947,0.0002
